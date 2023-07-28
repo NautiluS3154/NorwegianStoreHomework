@@ -1,0 +1,25 @@
+.container{
+    height: 250px;
+}
+.wrapp{
+    height: 100%;
+    max-width: 1110px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 10% 20%;
+}
+.title{
+    font-size: 2rem;
+    font-family: Viktor,serif;
+    font-weight: 400;
+    padding-left: 1%;
+    margin-bottom: 3%;
+}
+.desc{
+    line-height: 127%;
+    font-size: 1rem;
+    font-family: Founders Grotesk Text,sans-serif;
+    color: #2d1e1e;
+}

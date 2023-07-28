@@ -1,0 +1,47 @@
+.container{
+    height: 280px;
+    background: #EBECDC;
+}
+.wrapp{
+    max-width: 1110px;
+    height: 280px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.desc_text{
+    color: #2D1E1E;
+text-align: center;
+font-size: 13px;
+font-family: Roboto;
+line-height: 16.51px;
+text-transform: uppercase;
+}
+.signup_text{
+    color: #2D1E1E;
+text-align: center;
+font-size: 16px;
+font-family: Roboto;
+text-transform: uppercase;
+margin-top: 50px;
+margin-left: 25%;
+}
+.signup_text:hover{
+    color: grey;
+    font-size: 18px;
+}
+.mini_block{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 19px 0 81px 0;
+}
+.check_text{
+    color: #2D1E1E;
+font-size: 11px;
+font-family: Roboto;
+line-height: 13.818px;
+text-transform: uppercase;
+}

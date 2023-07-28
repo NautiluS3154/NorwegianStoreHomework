@@ -1,0 +1,45 @@
+.container{
+    height: 600px;
+}
+.wrapp{
+    max-width: 1110px;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.mini_container{
+    width: 60%;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+}
+.litle_container{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    
+    padding-left: 20%;
+
+}
+.title{
+    color: black;
+    font-family: Viktor,serif;
+    font-weight: 400;
+}
+.desc{
+    font-family: Founders Grotesk Mono,sans-serif;
+    font-size: 1rem;
+    color: #2d1e1e;
+    line-height: 127%;
+    font-weight: 100;
+}
+.image{
+    height: 550px;
+    width: 400px;
+}

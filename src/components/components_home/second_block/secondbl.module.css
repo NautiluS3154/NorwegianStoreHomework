@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.container{
+    height: 670px;
+
+}
+.wrapp{
+    margin: 0 auto;
+    max-width: 1200px;
+
+    height: 100%;   
+}
+.cart_main{
+   display: flex;
+   justify-content: space-around;
+}
+.text_title{
+    color: #2D1E1E;
+font-size: 24px;
+font-family: Roboto;
+margin: 3% 0 3% 10%;
+}
+.stick{
+    display:block ;
+    width: 1168px;
+height: 1px;
+flex-shrink: 0;
+background-color: #2D1E1E;
+margin: 10px 0 10px 1%;
+
+}

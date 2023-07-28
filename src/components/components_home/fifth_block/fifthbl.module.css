@@ -1,0 +1,46 @@
+.container{
+ 
+    height: 540px;
+    
+}
+.wrapp{
+     background: url(../../../assets/about-us/IMAGE\ \(11\).png) center center no-repeat;
+     max-width: 1110px;
+     height: 100%;
+     margin: 0 auto;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     padding: 5% 5% 5% 45%;
+}
+.title{
+    color: #FFF;
+font-size: 36px;
+font-family: Roboto;
+padding-right: 5%;
+}
+.desc{
+    color: #FFF;
+font-size: 13px;
+font-family: Roboto;
+line-height: 16.51px;
+text-transform: uppercase;
+padding-right: 5%;
+}
+.mini_block{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 80px;
+}
+.block_link{
+    color: #FFF;
+font-size: 13px;
+font-family: Roboto;
+line-height: 16.51px;
+text-transform: uppercase;
+}
+.block_link:hover{
+    color: rgb(41, 41, 41);
+    font-size: 15px;
+}
